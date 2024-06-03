@@ -13,6 +13,4 @@ buttonSub.addEventListener('click', (event) => {
     event.preventDefault()
     let testoCompleto = `Ti chiami ${contNome} e il tuo cognome è ${contCognome}, abiti a ${contCittà} zip code:${contZipCode} `
     testoDaInput.textContent = testoCompleto
-
-    
 })
