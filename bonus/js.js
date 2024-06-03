@@ -1,0 +1,1 @@
+let testoDaInput = document.getElementById('dettagliInput')
